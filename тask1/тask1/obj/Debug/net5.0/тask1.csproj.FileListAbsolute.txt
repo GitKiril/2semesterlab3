@@ -1,0 +1,16 @@
+D:\lab3\тask1\тask1\obj\Debug\net5.0\тask1.csproj.AssemblyReference.cache
+D:\lab3\тask1\тask1\obj\Debug\net5.0\тask1.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab3\тask1\тask1\obj\Debug\net5.0\тask1.AssemblyInfoInputs.cache
+D:\lab3\тask1\тask1\obj\Debug\net5.0\тask1.AssemblyInfo.cs
+D:\lab3\тask1\тask1\obj\Debug\net5.0\тask1.csproj.CoreCompileInputs.cache
+D:\lab3\тask1\тask1\bin\Debug\net5.0\тask1.exe
+D:\lab3\тask1\тask1\bin\Debug\net5.0\тask1.deps.json
+D:\lab3\тask1\тask1\bin\Debug\net5.0\тask1.runtimeconfig.json
+D:\lab3\тask1\тask1\bin\Debug\net5.0\тask1.runtimeconfig.dev.json
+D:\lab3\тask1\тask1\bin\Debug\net5.0\тask1.dll
+D:\lab3\тask1\тask1\bin\Debug\net5.0\ref\тask1.dll
+D:\lab3\тask1\тask1\bin\Debug\net5.0\тask1.pdb
+D:\lab3\тask1\тask1\obj\Debug\net5.0\тask1.dll
+D:\lab3\тask1\тask1\obj\Debug\net5.0\ref\тask1.dll
+D:\lab3\тask1\тask1\obj\Debug\net5.0\тask1.pdb
+D:\lab3\тask1\тask1\obj\Debug\net5.0\тask1.genruntimeconfig.cache
